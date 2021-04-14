@@ -1,4 +1,4 @@
-package com.danemobile;
+package codes.omegavoid.danemobile;
 
 import com.facebook.react.ReactActivity;
 
