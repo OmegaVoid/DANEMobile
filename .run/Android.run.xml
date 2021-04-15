@@ -1,0 +1,13 @@
+<component name="ProjectRunConfigurationManager">
+  <configuration default="false" name="Android" type="ReactNative" factoryName="React Native">
+    <node-interpreter value="project" />
+    <react-native value="$PROJECT_DIR$/node_modules/react-native" />
+    <platform value="ANDROID" />
+    <envs />
+    <only-packager />
+    <browser value="b2a9dca7-9d0b-4e1e-98a8-afb19c1328d2" />
+    <method v="2">
+      <option name="ReactNativePackager" enabled="true" />
+    </method>
+  </configuration>
+</component>
